@@ -24,14 +24,14 @@ a { color:blue; text-decoration: none;}
 }
 .footer {
     min-height: 100px;
-    border-top: solid 1px #cdcdcd;
+    border-top: solid 1px #cac6c6;
 }
 .anchors {
-    border-left: solid 1px #cdcdcd;
+    border-left: solid 1px #cac6c6;
     padding-left: 15px;
 }
 .sidebar {
-    border-right: solid 1px #cdcdcd;
+    border-right: solid 1px #cac6c6;
 }
 figure {
     text-align: center;
